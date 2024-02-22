@@ -4,4 +4,5 @@ This is my first git repository.
 Author-MOHD MAAZ GANI (mmg)
 <br>
 A coding enthusiast and a passionate learner.
-currently exploring and learning c language
+<br>
+Currently exploring and learning c language.
