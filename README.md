@@ -5,4 +5,4 @@ Author-MOHD MAAZ GANI (MMG)
 <br>
 A coding enthusiast and a passionate learner.
 <br>
-Currently exploring and learning c language.
+Currently exploring and learning C language.
